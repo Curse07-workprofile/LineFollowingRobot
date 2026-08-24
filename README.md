@@ -1,14 +1,11 @@
-# Line-Following Robot — Main PCB
+# Line-Following Robot - Main PCB
 
 Custom main PCB designed for a university line-following robot project.
 
-I was responsible for the schematic design, component selection, PCB
-layout, and hardware bring-up of the main controller board. The board
-integrates an ATmega328P, regulated power, motor switching, analogue
-line sensors, user input, and ISP programming.
+I was responsible for the schematic design, component selection, PCB layout, and hardware testing of the main controller board. 
+The board integrates an ATmega328P, regulated power, motor switching, analogue line sensors, user input, and ISP programming.
 
-The mechanical platform and control software were developed by other
-members of the team.
+The mechanical platform and control software were developed by other members of the team.
 
 ---
 ![Assembled PCB](./images/realboard.png)
@@ -16,8 +13,7 @@ members of the team.
 
 ## Project Overview
 
-The PCB was designed to provide the electrical platform for a small
-autonomous line-following robot.
+The PCB was designed to provide the electrical platform for a small autonomous line-following robot.
 
 ### Key requirements
 
@@ -42,7 +38,7 @@ I was primarily responsible for the electronics and PCB design:
 - Crystal oscillator design
 - ISP programming interface
 - PCB layout and routing
-- Hardware assembly and bring-up
+- Hardware assembly and functionality testing
 - Component-level debugging and modification
 
 The mechanical chassis and control software were developed by
